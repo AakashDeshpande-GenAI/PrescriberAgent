@@ -55,11 +55,11 @@ This Project includes usage of the following concepts:
     *   The main logic is contained within `agent-doc-1.ipynb`. Open this in Jupyter Notebook or VS Code or Kaggle.
 
 ## Demo
-![Agentic AI Prescription Writer] : (https://github.com/AakashDeshpande-GenAI/PrescriberAgent/blob/main/Images/final_prescription.png?raw=true)
+![Agentic AI Prescription Writer] : (https://raw.githubusercontent.com/AakashDeshpande-GenAI/PrescriberAgent/refs/heads/main/Images/final_prescription.png)
 
-![Logging Plugin] : (https://github.com/AakashDeshpande-GenAI/PrescriberAgent/blob/main/Images/logging_plugin.png?raw=true)
+![Logging Plugin] : (https://raw.githubusercontent.com/AakashDeshpande-GenAI/PrescriberAgent/refs/heads/main/Images/logging_plugin.png)
 
-![Human In The Loop] : (https://github.com/AakashDeshpande-GenAI/PrescriberAgent/blob/main/Images/Human_in_the_loop.png?raw=true)
+![Human In The Loop] : (https://raw.githubusercontent.com/AakashDeshpande-GenAI/PrescriberAgent/refs/heads/main/Images/Human_in_the_loop.png)
 
 
 ## Lessons Learned
