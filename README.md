@@ -55,8 +55,12 @@ This Project includes usage of the following concepts:
     *   The main logic is contained within `agent-doc-1.ipynb`. Open this in Jupyter Notebook or VS Code or Kaggle.
 
 ## Demo
-!Agentic AI Prescription Writer : (httpshttps://github.com/AakashDeshpande-GenAI/PrescriberAgent/blob/main/Images/logging_plugin.png?raw=true://raw.githubusercontent.com/AakashDeshpande-GenAI/PrescriberAgent/refs/heads/main/Images/final_prescription.png)
-!Logging Plugin : (https://github.com/AakashDeshpande-GenAI/PrescriberAgent/blob/main/Images/logging_plugin.png?raw=true)
-!Human In The Loop : (https://github.com/AakashDeshpande-GenAI/PrescriberAgent/blob/main/Images/Human_in_the_loop.png?raw=true)
+![Agentic AI Prescription Writer] : (https://github.com/AakashDeshpande-GenAI/PrescriberAgent/blob/main/Images/final_prescription.png?raw=true)
+
+![Logging Plugin] : (https://github.com/AakashDeshpande-GenAI/PrescriberAgent/blob/main/Images/logging_plugin.png?raw=true)
+
+![Human In The Loop] : (https://github.com/AakashDeshpande-GenAI/PrescriberAgent/blob/main/Images/Human_in_the_loop.png?raw=true)
+
+
 ## Lessons Learned
 This project was a deep dive into Agentic AI and the practical application of Agents and their Tools. A key challenge was ensuring the Agentic responses were constrained to the provided knowledge base and google_search tool with logging traces to prevent hallucination. This project solidified my understanding of building real-world applications with Agentic AI.
